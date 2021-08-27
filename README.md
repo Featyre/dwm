@@ -1,0 +1,2 @@
+# dwm
+Sorta-minimal dwm
